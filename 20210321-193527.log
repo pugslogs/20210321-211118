@@ -1,0 +1,129 @@
+Elapsed 142250 ms
+Reading Binary
+Parsing fight data
+ArcDPS Build EVTC20210223
+ArcDPS Combat Item Revision 1
+Fight Instance 1
+Parsing agent data
+Agent Count 339
+Parsing skill data
+Skill Count 1260
+Parsing combat list
+Combat Event Count 533602
+Linking agents to combat list
+Preparing data for log generation
+Data parsed
+Creating GW2EI Combat Events
+Creating EI Combat Data
+Combining SkillInfo with SkillData
+Creating Cast Events
+Creating Buff Events
+Creating Damage Events
+Creating Custom Buff Events
+Creating Custom Damage Events
+Creating Custom Cast Events
+Creating Custom Status Events
+Attaching Banners to Warriors
+Attaching Turrets to Engineers
+Attaching Ranger Gadgets to Rangers
+Attaching Racial Gadgets to Players
+Creating GW2EI Log Meta Data
+PoV Garryx The Clever
+GW2 Build 112716
+Language English
+Log Start 2021-03-21 19:25:45 -07:00
+Log End 2021-03-21 19:35:25 -07:00
+Checking Success
+Checking CM
+Creating Buff Container
+Unknown Food 34207
+Unknown Food 34684
+Unknown Formula for Guild Item Research: Unknown 93:  +10Unknown
+Unknown Formula for Plate of Truffle Steak: Unknown 77:  +10Unknown
+Unknown Formula for Bowl of Sweet and Spicy Butternut Squash Soup: Unknown 77:  +10Unknown
+Unknown Formula for Bowl of Fruit Salad with Mint Garnish: Unknown 88:  +10Unknown
+Unknown Formula for Bowl of Fruit Salad with Mint Garnish: Unknown 101:  +5Unknown
+Unknown Formula for Bowl of Fruit Salad with Mint Garnish: Unknown 93:  +20Unknown
+Unknown Formula for Bowl of Fruit Salad with Mint Garnish: Unknown 78:  +20Unknown
+Unknown Formula for Bowl of Fruit Salad with Mint Garnish: Unknown 113:  +10Unknown
+Unknown Formula for Peppercorn-Crusted Sous-Vide Steak: Unknown 88:  +10Unknown
+Unknown Formula for Peppercorn-Crusted Sous-Vide Steak: Unknown 101:  +5Unknown
+Unknown Formula for Peppercorn-Crusted Sous-Vide Steak: Unknown 93:  +20Unknown
+Unknown Formula for Peppercorn-Crusted Sous-Vide Steak: Unknown 78:  +20Unknown
+Unknown Formula for Peppercorn-Crusted Sous-Vide Steak: Unknown 113:  +10Unknown
+Unknown Formula for Peppered Cured Meat Flatbread: Unknown 88:  +10Unknown
+Unknown Formula for Peppered Cured Meat Flatbread: Unknown 101:  +5Unknown
+Unknown Formula for Peppered Cured Meat Flatbread: Unknown 93:  +20Unknown
+Unknown Formula for Peppered Cured Meat Flatbread: Unknown 78:  +20Unknown
+Unknown Formula for Peppered Cured Meat Flatbread: Unknown 113:  +10Unknown
+Unknown Formula for Plate of Peppercorn-Spiced Coq Au Vin: Unknown 88:  +10Unknown
+Unknown Formula for Plate of Peppercorn-Spiced Coq Au Vin: Unknown 101:  +5Unknown
+Unknown Formula for Plate of Peppercorn-Spiced Coq Au Vin: Unknown 93:  +20Unknown
+Unknown Formula for Plate of Peppercorn-Spiced Coq Au Vin: Unknown 78:  +20Unknown
+Unknown Formula for Plate of Peppercorn-Spiced Coq Au Vin: Unknown 113:  +10Unknown
+Unknown Formula for Plate of Peppercorn-Spiced Poultry Aspic: Unknown 88:  +10Unknown
+Unknown Formula for Plate of Peppercorn-Spiced Poultry Aspic: Unknown 101:  +5Unknown
+Unknown Formula for Plate of Peppercorn-Spiced Poultry Aspic: Unknown 93:  +20Unknown
+Unknown Formula for Plate of Peppercorn-Spiced Poultry Aspic: Unknown 78:  +20Unknown
+Unknown Formula for Plate of Peppercorn-Spiced Poultry Aspic: Unknown 113:  +10Unknown
+Unknown Formula for Spherified Sesame Oyster Soup: Unknown 88:  +10Unknown
+Unknown Formula for Spherified Sesame Oyster Soup: Unknown 101:  +5Unknown
+Unknown Formula for Spherified Sesame Oyster Soup: Unknown 93:  +20Unknown
+Unknown Formula for Spherified Sesame Oyster Soup: Unknown 78:  +20Unknown
+Unknown Formula for Spherified Sesame Oyster Soup: Unknown 113:  +10Unknown
+Unknown Formula for Superior Sharpening Stone: Unknown 77:  +10Unknown
+Unknown Formula for Master Maintenance Oil: Unknown 77:  +10Unknown
+Unknown Formula for Tin of Fruitcake: Unknown 77:  +10Unknown
+Unknown Formula for Tin of Fruitcake: Unknown 88:  +10Unknown
+Unknown Formula for Furious Sharpening Stone: Unknown 77:  +10Unknown
+Unknown Formula for Peppermint Oil: Unknown 77:  +10Unknown
+Unknown Formula for Peppermint Oil: Unknown 88:  +10Unknown
+Unknown Formula for Holographic Super Drumstick: Unknown 77:  +10Unknown
+Unknown Formula for Bountiful Maintenance Oil: Unknown 71:  +0.006Unknown
+Unknown Formula for Bountiful Maintenance Oil: Unknown 71:  +0.008Unknown
+Unknown Formula for Bountiful Maintenance Oil: Unknown 77:  +10Unknown
+Unknown Formula for Tuning Icicle: Unknown 77:  +10Unknown
+Unknown Formula for Tuning Icicle: Unknown 88:  +10Unknown
+Unknown Formula for Magnanimous Tuning Crystal: Unknown 77:  +10Unknown
+Unknown Formula for Corsair Tuning Crystal: Unknown 77:  +10Unknown
+Unknown Formula for Writ of Masterful Accuracy: Unknown 77:  +10Unknown
+Unknown Formula for Rising Momentum: Unknown 82:  +5Unknown
+Unknown Formula for Blood Reckoning: Unknown 34:  +33Unknown
+Unknown Formula for Blood Reckoning: Unknown 35:  +33Unknown
+Unknown Formula for Litany of Wrath: Unknown 35:  +33Unknown
+Unknown Formula for Litany of Wrath: Unknown 34:  +33Unknown
+Unknown Formula for Eternal Oasis: Unknown 67:  +20Unknown
+Unknown Formula for Food 34207: Unknown 77:  +10Unknown
+Unknown Formula for Food 34207: Unknown 88:  +10Unknown
+Creating Damage Modifier Container
+Creating Mechanic Data
+Creating General Statistics Container
+Uploading to DPSReports using EI
+Upload tentative
+Upload tentative failed: InternalServerError
+Upload tentative
+Upload tentative failed: InternalServerError
+Upload tentative
+Upload tentative failed: InternalServerError
+Upload tentative
+Upload tentative failed: InternalServerError
+Upload tentative
+Upload tentative failed: InternalServerError
+DPSReports using EI: Upload process failed
+Creating File(s)
+Creating HTML
+HTML: replacing global variables
+HTML: building CSS
+HTML: building JS
+HTML: building Combat Replay JS
+HTML: building Log Data
+HTML: building Players
+Initializing Actor dictionary
+HTML: building Enemies
+HTML: building Targets
+HTML: building Skill/Buff dictionaries
+HTML: building Phases
+HTML: building Meta Data
+HTML: building Graph Data
+HTML created
+Completed parsing for killed detailed_wvw

@@ -1,0 +1,179 @@
+Elapsed 91113 ms
+Reading Binary
+Parsing fight data
+ArcDPS Build EVTC20210223
+ArcDPS Combat Item Revision 1
+Fight Instance 1
+Parsing agent data
+Agent Count 247
+Parsing skill data
+Skill Count 1273
+Parsing combat list
+Combat Event Count 271393
+Linking agents to combat list
+Preparing data for log generation
+Data parsed
+Creating GW2EI Combat Events
+Creating EI Combat Data
+Combining SkillInfo with SkillData
+Creating Cast Events
+Creating Buff Events
+Creating Damage Events
+Creating Custom Buff Events
+Creating Custom Damage Events
+Creating Custom Cast Events
+Creating Custom Status Events
+Attaching Banners to Warriors
+Attaching Turrets to Engineers
+Attaching Ranger Gadgets to Rangers
+Attaching Racial Gadgets to Players
+Creating GW2EI Log Meta Data
+PoV Garryx The Clever
+GW2 Build 112716
+Language English
+Log Start 2021-03-21 18:59:56 -07:00
+Log End 2021-03-21 19:04:16 -07:00
+Checking Success
+Checking CM
+Creating Buff Container
+Unknown Food 9818
+Unknown Food 9825
+Unknown Food 9979
+Unknown Food 10017
+Unknown Food 10048
+Unknown Food 34207
+Unknown Food 34655
+Unknown Food 34676
+Unknown Food 34739
+Unknown Food 37540
+Unknown Food 39500
+Unknown Food 40014
+Unknown Formula for Guild Item Research: Unknown 93:  +10Unknown
+Unknown Formula for Plate of Truffle Steak: Unknown 77:  +10Unknown
+Unknown Formula for Bowl of Sweet and Spicy Butternut Squash Soup: Unknown 77:  +10Unknown
+Unknown Formula for Bowl of Orrian Truffle and Meat Stew: Unknown 77:  +10Unknown
+Unknown Formula for Bowl of Fruit Salad with Mint Garnish: Unknown 88:  +10Unknown
+Unknown Formula for Bowl of Fruit Salad with Mint Garnish: Unknown 101:  +5Unknown
+Unknown Formula for Bowl of Fruit Salad with Mint Garnish: Unknown 93:  +20Unknown
+Unknown Formula for Bowl of Fruit Salad with Mint Garnish: Unknown 78:  +20Unknown
+Unknown Formula for Bowl of Fruit Salad with Mint Garnish: Unknown 113:  +10Unknown
+Unknown Formula for Bowl of Spiced Fruit Salad: Unknown 88:  +10Unknown
+Unknown Formula for Bowl of Spiced Fruit Salad: Unknown 101:  +5Unknown
+Unknown Formula for Bowl of Spiced Fruit Salad: Unknown 93:  +20Unknown
+Unknown Formula for Bowl of Spiced Fruit Salad: Unknown 78:  +20Unknown
+Unknown Formula for Bowl of Spiced Fruit Salad: Unknown 113:  +10Unknown
+Unknown Formula for Peppercorn-Crusted Sous-Vide Steak: Unknown 88:  +10Unknown
+Unknown Formula for Peppercorn-Crusted Sous-Vide Steak: Unknown 101:  +5Unknown
+Unknown Formula for Peppercorn-Crusted Sous-Vide Steak: Unknown 93:  +20Unknown
+Unknown Formula for Peppercorn-Crusted Sous-Vide Steak: Unknown 78:  +20Unknown
+Unknown Formula for Peppercorn-Crusted Sous-Vide Steak: Unknown 113:  +10Unknown
+Unknown Formula for Peppered Cured Meat Flatbread: Unknown 88:  +10Unknown
+Unknown Formula for Peppered Cured Meat Flatbread: Unknown 101:  +5Unknown
+Unknown Formula for Peppered Cured Meat Flatbread: Unknown 93:  +20Unknown
+Unknown Formula for Peppered Cured Meat Flatbread: Unknown 78:  +20Unknown
+Unknown Formula for Peppered Cured Meat Flatbread: Unknown 113:  +10Unknown
+Unknown Formula for Plate of Peppercorn-Spiced Coq Au Vin: Unknown 88:  +10Unknown
+Unknown Formula for Plate of Peppercorn-Spiced Coq Au Vin: Unknown 101:  +5Unknown
+Unknown Formula for Plate of Peppercorn-Spiced Coq Au Vin: Unknown 93:  +20Unknown
+Unknown Formula for Plate of Peppercorn-Spiced Coq Au Vin: Unknown 78:  +20Unknown
+Unknown Formula for Plate of Peppercorn-Spiced Coq Au Vin: Unknown 113:  +10Unknown
+Unknown Formula for Plate of Peppercorn-Spiced Poultry Aspic: Unknown 88:  +10Unknown
+Unknown Formula for Plate of Peppercorn-Spiced Poultry Aspic: Unknown 101:  +5Unknown
+Unknown Formula for Plate of Peppercorn-Spiced Poultry Aspic: Unknown 93:  +20Unknown
+Unknown Formula for Plate of Peppercorn-Spiced Poultry Aspic: Unknown 78:  +20Unknown
+Unknown Formula for Plate of Peppercorn-Spiced Poultry Aspic: Unknown 113:  +10Unknown
+Unknown Formula for Plate of Sesame-Crusted Coq Au Vin: Unknown 88:  +10Unknown
+Unknown Formula for Plate of Sesame-Crusted Coq Au Vin: Unknown 101:  +5Unknown
+Unknown Formula for Plate of Sesame-Crusted Coq Au Vin: Unknown 93:  +20Unknown
+Unknown Formula for Plate of Sesame-Crusted Coq Au Vin: Unknown 78:  +20Unknown
+Unknown Formula for Plate of Sesame-Crusted Coq Au Vin: Unknown 113:  +10Unknown
+Unknown Formula for Sesame Veggie Flatbread: Unknown 88:  +10Unknown
+Unknown Formula for Sesame Veggie Flatbread: Unknown 101:  +5Unknown
+Unknown Formula for Sesame Veggie Flatbread: Unknown 93:  +20Unknown
+Unknown Formula for Sesame Veggie Flatbread: Unknown 78:  +20Unknown
+Unknown Formula for Sesame Veggie Flatbread: Unknown 113:  +10Unknown
+Unknown Formula for Sesame-Asparagus and Cured Meat Flatbread: Unknown 88:  +10Unknown
+Unknown Formula for Sesame-Asparagus and Cured Meat Flatbread: Unknown 101:  +5Unknown
+Unknown Formula for Sesame-Asparagus and Cured Meat Flatbread: Unknown 93:  +20Unknown
+Unknown Formula for Sesame-Asparagus and Cured Meat Flatbread: Unknown 78:  +20Unknown
+Unknown Formula for Sesame-Asparagus and Cured Meat Flatbread: Unknown 113:  +10Unknown
+Unknown Formula for Sous-Vide Steak with Mint-Parsley Sauce: Unknown 88:  +10Unknown
+Unknown Formula for Sous-Vide Steak with Mint-Parsley Sauce: Unknown 101:  +5Unknown
+Unknown Formula for Sous-Vide Steak with Mint-Parsley Sauce: Unknown 93:  +20Unknown
+Unknown Formula for Sous-Vide Steak with Mint-Parsley Sauce: Unknown 78:  +20Unknown
+Unknown Formula for Sous-Vide Steak with Mint-Parsley Sauce: Unknown 113:  +10Unknown
+Unknown Formula for Spherified Sesame Oyster Soup: Unknown 88:  +10Unknown
+Unknown Formula for Spherified Sesame Oyster Soup: Unknown 101:  +5Unknown
+Unknown Formula for Spherified Sesame Oyster Soup: Unknown 93:  +20Unknown
+Unknown Formula for Spherified Sesame Oyster Soup: Unknown 78:  +20Unknown
+Unknown Formula for Spherified Sesame Oyster Soup: Unknown 113:  +10Unknown
+Unknown Formula for Hardened Sharpening Stone: Unknown 77:  +10Unknown
+Unknown Formula for Superior Sharpening Stone: Unknown 77:  +10Unknown
+Unknown Formula for Quality Maintenance Oil: Unknown 77:  +10Unknown
+Unknown Formula for Master Maintenance Oil: Unknown 77:  +10Unknown
+Unknown Formula for Master Tuning Crystal: Unknown 77:  +10Unknown
+Unknown Formula for Tin of Fruitcake: Unknown 77:  +10Unknown
+Unknown Formula for Tin of Fruitcake: Unknown 88:  +10Unknown
+Unknown Formula for Magnanimous Sharpening Stone: Unknown 77:  +10Unknown
+Unknown Formula for Furious Sharpening Stone: Unknown 77:  +10Unknown
+Unknown Formula for Peppermint Oil: Unknown 77:  +10Unknown
+Unknown Formula for Peppermint Oil: Unknown 88:  +10Unknown
+Unknown Formula for Toxic Maintenance Oil: Unknown 77:  +10Unknown
+Unknown Formula for Furious Maintenance Oil: Unknown 77:  +10Unknown
+Unknown Formula for Holographic Super Drumstick: Unknown 77:  +10Unknown
+Unknown Formula for Bountiful Maintenance Oil: Unknown 71:  +0.006Unknown
+Unknown Formula for Bountiful Maintenance Oil: Unknown 71:  +0.008Unknown
+Unknown Formula for Bountiful Maintenance Oil: Unknown 77:  +10Unknown
+Unknown Formula for Magnanimous Tuning Crystal: Unknown 77:  +10Unknown
+Unknown Formula for Corsair Tuning Crystal: Unknown 77:  +10Unknown
+Unknown Formula for Writ of Masterful Strength: Unknown 77:  +10Unknown
+Unknown Formula for Writ of Masterful Accuracy: Unknown 77:  +10Unknown
+Unknown Formula for Writ of Malice: Unknown 77:  +10Unknown
+Unknown Formula for Rising Momentum: Unknown 82:  +5Unknown
+Unknown Formula for Blood Reckoning: Unknown 34:  +33Unknown
+Unknown Formula for Blood Reckoning: Unknown 35:  +33Unknown
+Unknown Formula for Eternal Oasis: Unknown 67:  +20Unknown
+Unknown Formula for Food 9818: Unknown 77:  +10Unknown
+Unknown Formula for Food 9825: Unknown 77:  +10Unknown
+Unknown Formula for Food 9979: Unknown 77:  +10Unknown
+Unknown Formula for Food 10017: Unknown 77:  +10Unknown
+Unknown Formula for Food 10048: Unknown 77:  +10Unknown
+Unknown Formula for Food 34207: Unknown 77:  +10Unknown
+Unknown Formula for Food 34207: Unknown 88:  +10Unknown
+Unknown Formula for Food 37540: Unknown 77:  +10Unknown
+Unknown Formula for Food 37540: Unknown 93:  +30Unknown
+Unknown Formula for Food 39500: Unknown 77:  +10Unknown
+Unknown Formula for Food 40014: Unknown 88:  +10Unknown
+Unknown Formula for Food 40014: Unknown 101:  +1Unknown
+Creating Damage Modifier Container
+Creating Mechanic Data
+Creating General Statistics Container
+Uploading to DPSReports using EI
+Upload tentative
+Upload tentative failed: InternalServerError
+Upload tentative
+Upload tentative failed: InternalServerError
+Upload tentative
+Upload tentative failed: InternalServerError
+Upload tentative
+Upload tentative failed: InternalServerError
+Upload tentative
+Upload tentative failed: InternalServerError
+DPSReports using EI: Upload process failed
+Creating File(s)
+Creating HTML
+HTML: replacing global variables
+HTML: building CSS
+HTML: building JS
+HTML: building Combat Replay JS
+HTML: building Log Data
+HTML: building Players
+Initializing Actor dictionary
+HTML: building Enemies
+HTML: building Targets
+HTML: building Skill/Buff dictionaries
+HTML: building Phases
+HTML: building Meta Data
+HTML: building Graph Data
+HTML created
+Completed parsing for killed detailed_wvw
